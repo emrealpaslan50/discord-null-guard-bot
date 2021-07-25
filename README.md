@@ -1,9 +1,9 @@
 # null Guard Bot
 
-Botun alt yapısı Yashini yani yasin arkadaşımıza aittir.
+###### Botun alt yapısı Yashinu yani Yasin arkadaşımıza aittir.
 bot editlemeyi seven birisiyim yazma taraftarı değilim.
 
-# 60 Starda Sizlerle
+# 60 Starda Sizlerle 💛
 
 ## Bu Guard Botunu diğer botlardan ayıran özellik nedir diyorsunuz?
 
