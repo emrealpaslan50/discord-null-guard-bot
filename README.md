@@ -3,7 +3,7 @@
 ###### Botun alt yapısı Yashinu yani Yasin arkadaşımıza aittir.
 bot editlemeyi seven birisiyim yazma taraftarı değilim.
 
-# 60 Starda Sizlerle 💛
+# Spankere inat paylaşıyorum kullanabilirsiniz.
 
 ## Bu Guard Botunu diğer botlardan ayıran özellik nedir diyorsunuz?
 
